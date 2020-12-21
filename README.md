@@ -1,6 +1,6 @@
 # {{ name }}
-[![npm version](https://badge.fury.io/js/%40dnlup%2Fagent-11.svg)](https://badge.fury.io/js/%40dnlup%2Fagent-11)
-![Tests](https://github.com/dnlup/agent-11/workflows/Tests/badge.svg)
+[![npm version]()
+![Tests]()
 [![codecov]()]()
 [![Known Vulnerabilities]()]()
 
