@@ -10,20 +10,11 @@ Every contribution should pass the existing tests or implementing new ones if th
 # Run tests locally
 $ npm test
 
-# Run js tests
-$ npm test:js
-
-# Run typescript types tests
-$ npm test:ts
-
-# Lint all the code
+# Lint the code
 $ npm lint
 
-# Lint only js files
-$ npm lint:js
-
-# Lint only typescript files
-$ npm lint:ts
+# Fix linting errors
+$ npm lint:fix
 
 # Create the TOC in the README
 $ npm run doc
