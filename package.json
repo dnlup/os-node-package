@@ -43,7 +43,7 @@
     "lint-staged": "^10.5.3",
     "markdown-toc": "^1.2.0",
     "snazzy": "^9.0.0",
-    "standard": "^16.0.3",
+    "standard": "^17.0.0",
     "standard-version": "^9.0.0",
     "tap": "^14.11.0"
   }
